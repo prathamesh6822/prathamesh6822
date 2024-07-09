@@ -2,7 +2,7 @@
 
 💻 I'm Prathamesh, a passionate software developer 🌟 on a mission to build amazing things with code. Let's turn ideas into reality!
 
-🚀 Tech Stack: Java 🌐 | Python 🐍 | React ⚛️ | c,c++ 🚀 | S.Q.L. 🎸
+🚀 Tech Stack: HTML 
 
 🤖 Currently diving deep into data science, exploring the power of AI. Let's shape the future with data-driven insights! 📈
 
